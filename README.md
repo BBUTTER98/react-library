@@ -1,3 +1,8 @@
+# App overview
+This project is creeated by following "Modern React with Redux" course on Udemy. It's simple library in React saving titles of books in json file created in the project directory. App allows you do add books, edit titles of the books or remove it if you need. It also shows random graphic for each of the book.
+To use an application you first need to download app and all packages (below are steps how to do that) and remember about using command "npm start" for starting an
+applicaton and "npm run server" for running JSON server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
